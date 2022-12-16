@@ -1,14 +1,18 @@
 # Programming Portfolio
 Code samples from coursework and club projects
 
+Ameya Baxi  
+University of Wisconsin-Madison  
+abaxi@wisc.edu  
+
 Coursework:  
-AP Computer Science A  
 COMP SCI 220: Data Science Programming I  
 COMP SCI 320: Data Science Programming II  
-GEOG 370: Introduction to Cartography  
 GEOG 377: An Introduction to Geographic Information Systems
+GEOG 370: Introduction to Cartography  
+AP Computer Science A  
 
-Languages: CSS, HTML, Java, Python  
+Languages: Python, Java, HTML  
 Software: ArcGIS Pro, QGIS
 
 Notes about collaboration on projects:  
