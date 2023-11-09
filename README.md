@@ -6,9 +6,9 @@ University of Wisconsin-Madison
 abaxi@wisc.edu  
 
 Coursework:  
-COMP SCI 220: Data Science Programming I (Python)
-COMP SCI 320: Data Science Programming II (Python)
-GEOG 378: Introduction to Geocomputing (Python)
-GEOG 574: Geospatial Databases (SQL)
-STAT 240: Data Science Modeling I (R)
-AP Computer Science A (Java)
+COMP SCI 220: Data Science Programming I (Python) 
+COMP SCI 320: Data Science Programming II (Python) 
+GEOG 378: Introduction to Geocomputing (Python) 
+GEOG 574: Geospatial Databases (SQL)  
+STAT 240: Data Science Modeling I (R) 
+AP Computer Science A (Java) 
